@@ -1,0 +1,32 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1580018314279,
+		"sourceCode": "/* ==UserStyle==\n@name           Zybooks Readable Width\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n@-moz-document domain(\"learn.zybooks.com\") {\n    .not-found-page .section-nav,\n    .not-found-page .zb-card,\n    .zybook-chapter-add-lab-page .section-nav,\n    .zybook-chapter-add-lab-page .zb-card,\n    .zybook-chapter-section-loading-page .section-nav,\n    .zybook-chapter-section-loading-page .zb-card,\n    .zybook-chapter-section-page .section-nav,\n    .zybook-chapter-section-page .zb-card,\n    .zybook-content-explorer-page .section-nav,\n    .zybook-content-explorer-page .zb-card,\n    .zybook-content-explorer-printable-page .section-nav,\n    .zybook-content-explorer-printable-page .zb-card,\n    .zybook-error-page .section-nav,\n    .zybook-error-page .zb-card {\n        max-width: 50em;\n        font-size: 14pt;\n    }\n    .not-found-page .zybook-section .zb-card-content,\n    .section-preview-modal .zybook-section .zb-card-content,\n    .zybook-chapter-print-page .zybook-section .zb-card-content,\n    .zybook-chapter-section-loading-page .zybook-section .zb-card-content,\n    .zybook-chapter-section-page .zybook-section .zb-card-content,\n    .zybook-create-section-page .zybook-section .zb-card-content,\n    .zybook-edit-section-page .zybook-section .zb-card-content,\n    .zybook-error-page .zybook-section .zb-card-content,\n    .zylab-ui-page .zybook-section .zb-card-content {\n        margin: 0;\n    }\n    .large.interactive-activity-container,\n    .large.static-container,\n    .resource-container.large {\n        width: auto;\n    }\n    .medium.interactive-activity-container,\n    .medium.static-container,\n    .resource-container.medium {\n        width: auto;\n    }\n    .question-set-question .question {\n        flex: auto;\n    }\n    .static-container .static-container-payload {\n        align-self: auto;\n    }\n}",
+		"sections": [
+			{
+				"code": ".not-found-page .section-nav,\n    .not-found-page .zb-card,\n    .zybook-chapter-add-lab-page .section-nav,\n    .zybook-chapter-add-lab-page .zb-card,\n    .zybook-chapter-section-loading-page .section-nav,\n    .zybook-chapter-section-loading-page .zb-card,\n    .zybook-chapter-section-page .section-nav,\n    .zybook-chapter-section-page .zb-card,\n    .zybook-content-explorer-page .section-nav,\n    .zybook-content-explorer-page .zb-card,\n    .zybook-content-explorer-printable-page .section-nav,\n    .zybook-content-explorer-printable-page .zb-card,\n    .zybook-error-page .section-nav,\n    .zybook-error-page .zb-card {\n        max-width: 50em;\n        font-size: 14pt;\n    }\n    .not-found-page .zybook-section .zb-card-content,\n    .section-preview-modal .zybook-section .zb-card-content,\n    .zybook-chapter-print-page .zybook-section .zb-card-content,\n    .zybook-chapter-section-loading-page .zybook-section .zb-card-content,\n    .zybook-chapter-section-page .zybook-section .zb-card-content,\n    .zybook-create-section-page .zybook-section .zb-card-content,\n    .zybook-edit-section-page .zybook-section .zb-card-content,\n    .zybook-error-page .zybook-section .zb-card-content,\n    .zylab-ui-page .zybook-section .zb-card-content {\n        margin: 0;\n    }\n    .large.interactive-activity-container,\n    .large.static-container,\n    .resource-container.large {\n        width: auto;\n    }\n    .medium.interactive-activity-container,\n    .medium.static-container,\n    .resource-container.medium {\n        width: auto;\n    }\n    .question-set-question .question {\n        flex: auto;\n    }\n    .static-container .static-container-payload {\n        align-self: auto;\n    }",
+				"start": 45,
+				"domains": [
+					"learn.zybooks.com"
+				]
+			}
+		],
+		"usercssData": {
+			"name": "Zybooks Readable Width",
+			"namespace": "github.com/openstyles/stylus",
+			"version": "1.0.0",
+			"description": "A new userstyle",
+			"author": "Me"
+		},
+		"author": "Me",
+		"description": "A new userstyle",
+		"name": "Zybooks Readable Width",
+		"updateDate": 1580100098937,
+		"id": 1
+	}
+]
